@@ -2,7 +2,7 @@
 In order to make people interested in Deep Learning  study more easily, this repository devolop Deep Learning Study Projects using Tensorflow and MNIST dataset, including entry level version,primary version,Lenet5 version.....
 
 
-MnistTrainBase.py
+MnistTrainBase.py（入门版本）
 
 1、利用Tensorflow和mnist数据集训练单层前馈神经网络/感知机模型，损失函数使用交叉熵，训练方法采用梯度下降
 
