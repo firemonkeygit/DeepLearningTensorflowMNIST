@@ -1,6 +1,9 @@
 # DeepLearningTensorflowMNIST
 In order to make people interested in Deep Learning  study more easily, this repository devolop Deep Learning Study Projects using Tensorflow and MNIST dataset, including entry level version,primary version,Lenet5 version.....
+
 希望本项目的建立对你深度学习探索的道路上有所帮助！
+
+--------------------------------------------------------------------------------------------------
 
 ConsoleTest.py（入门前基础）
 
@@ -10,6 +13,7 @@ ConsoleTest.py（入门前基础）
 
                文章地址：https://blog.csdn.net/firemonkeycs/article/details/108093857
                
+----------------------------------------------------------------------------------------------------------
 
 MnistTrainBase.py（入门版本）
 
