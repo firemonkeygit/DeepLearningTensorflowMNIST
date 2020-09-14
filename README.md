@@ -40,6 +40,7 @@ MnistDLTrainBase.py（初级版本）
 1、利用Tensorflow框架和mnist数据集训练简单的深度CNN模型，损失函数使用交叉熵，训练方法采用Adam梯度下降
 
 2、具体过程详见博客文章：深度学习-卷积神经网络-实例及代码2（初级）—利用Tensorflow和mnist数据集训练简单的深度CNN实现手写数字识别
+             
              文章地址：https://blog.csdn.net/firemonkeycs/article/details/108563513
 
 
