@@ -1,6 +1,7 @@
 # DeepLearningTensorflowMNIST
 In order to make people interested in Deep Learning  study more easily, this repository devolop Deep Learning Study Projects using Tensorflow and MNIST dataset, including entry level version,primary version,Lenet5 version.....
 
+本项目作为深度学习CNN网络在图像识别领域应用的基本教程，利用Tensorflow和Mnist数据集实现CNN模型及其训练
 希望本项目的建立对你深度学习探索的道路上有所帮助！
 
 --------------------------------------------------------------------------------------------------
@@ -43,7 +44,15 @@ MnistDLTrainBase.py（初级版本）
              
              文章地址：https://blog.csdn.net/firemonkeycs/article/details/108563513
 
+-------------------------------------------------------------------------------------------------------------
 
+MnistDLTrainLeNet5.py（LeNet5模型版本-Lecun1998）
+
+1、利用Tensorflow框架和mnist数据集训练Lecun1998论文中提出的LeNet5的深度CNN模型，损失函数使用交叉熵，训练方法采用梯度下降
+
+2、具体过程详见博客文章：深度学习-卷积神经网络-实例及代码3（LeNet5模型）—利用Tensorflow和mnist数据集训练LeNet5-CNN模型实现手写数字识别
+
+            文章地址：https://blog.csdn.net/firemonkeycs/article/details/109210258
 
 
 
